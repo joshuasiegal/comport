@@ -1,0 +1,104 @@
+{
+
+  "basics": {
+    "name": "Joshua Siegal",
+    "label": "UI Developer / Creative Technologist",
+    "picture": "https://static.joshuasiegal.com/comport/profile.gif",
+    "email": "joshuasiegal@yahoo.com",
+    "phone": "847.772.2880",
+    "website": "http://joshuasiegal.com",
+    "summary": "A summary of John Doe...",
+    "location": {
+      "address": "8218 Kildare Ave.",
+      "postalCode": "IL 60076",
+      "city": "Skokie",
+      "countryCode": "US",
+      "region": "Chicago"
+    },
+    "links": [
+      {
+        "name": "Arts Portfolio",
+        "url": "https://joshuasiegal.org"
+      }
+    ],
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "john",
+        "url": "http://twitter.com/john",
+        "icon": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Affinity Express",
+      "position": "Lead UI Engineer",
+      "website": "http://affinityexpress.com",
+      "startDate": "2012-03-01",
+      "endDate": "current",
+      "summary": "Description...",
+      "highlights": [
+        ""
+      ],
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia College Chicago",
+      "area": "Interdisciplinary Arts & Media",
+      "studyType": "MFA",
+      "startDate": "2004-09-01",
+      "endDate": "2007-06-01",
+      "summary": ""
+    },
+    {
+      "institution": "University of Iowa",
+      "area": "English",
+      "studyType": "BA",
+      "startDate": "1992-09-01",
+      "endDate": "1996-06-01",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "url": "",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "themes": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+=== 1.0 ===
+
+ - Responsive design
+ - Skills Filter
+ - Dynamic header (animation?  3js?  processingjs?)
+ - Routing on skills filter
+ - Links on skills to skills routes
+ - Open graph tags / images
+ - Footer with links / notes (open resume project)
+ - Bitmoji profile image
+ - Loading state
+ - CSS Grid
+ - Mobile view cards
+ - Printable (media queries)
+
+
+
+=== 2.0 ===
+
+ - Theme selector
+ - Theme selection in localStorage
+ - Code view
+
+
+=== 3.0 ===
+
+ - Technology Selector
+
+
+
+=== THEME CONCEPTS ===
+
+ - Bluet
+ - Neumo (yet accessible)
+ - Night
+ - Typog
+ - Nines
