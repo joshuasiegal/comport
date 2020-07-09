@@ -1,6 +1,6 @@
 <template>
   <div id="header">
-    <h2>Header</h2>
+    <h1>Joshua Siegal</h1>
     <Nav />
   </div>
 </template>
